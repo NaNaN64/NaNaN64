@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://icongr.am/devicon/python-plain.svg?size=128&color=ffffff"/>
   
-  <img align="center" alt="Java" height="40" width="50" src="https://icongr.am/devicon/java-plain.svg?size=128&color=ffffff" />
+  <img align="center" alt="Java" height="50" width="60" src="https://icongr.am/devicon/java-plain.svg?size=128&color=ffffff" />
 
   
  <img align="center" alt="Illustrator" height="40" width="50"  src="https://icongr.am/devicon/illustrator-line.svg?size=128&color=ffffff" />
