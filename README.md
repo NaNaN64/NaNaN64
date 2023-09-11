@@ -15,15 +15,15 @@
  
   
   
- <img align="right" src="https://media1.giphy.com/media/PqjTdvXImZQfcmTYEO/giphy.gif" width="200px">
+ ![giphy](https://github.com/NaNaN64/Read.me/assets/112595708/df206192-29d3-4e31-9668-a001dd937982)
+
+## Contact me! :)
   
 </div>
 
 
 <br>
- ![giphy](https://github.com/NaNaN64/Read.me/assets/112595708/df206192-29d3-4e31-9668-a001dd937982)
 
-## Contact me! :)
  
 <div> 
   <a href = "mailto:Jeffersonfeitosa64@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
