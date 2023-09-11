@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=23&duration=5001&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Greetings!+Welcome+to+my+Github.;Jefferson+Souza%2C+A.K.A+Nanan.;I'm+a+technology+student;+and+graphic+design+enthusiast.+%E2%9C%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=23&duration=5001&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Greetings!+Welcome+to+my+Github.;Jefferson+Souza%2C+A.K.A+Nanan.;I'm+a+technology+student;+and+graphic+design+enthusiast.+%E2%9C%8C)](https://git.io/typing-svg) 
 
 
   
