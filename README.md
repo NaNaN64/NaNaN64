@@ -22,7 +22,7 @@
  
   
   
-  <img align="right" src=" ![giphy](https://github.com/NaNaN64/Read.me/assets/112595708/c94eb1dd-b7bd-4caf-8f35-2f63d5d22d14)">
+  <img align="right" src=" https://github.com/NaNaN64/Read.me/assets/112595708/c94eb1dd-b7bd-4caf-8f35-2f63d5d22d14">
   
 </div>
 
