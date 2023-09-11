@@ -15,11 +15,11 @@
  
   
   
- <img align="right" src="https://user-images.githubusercontent.com/32654006/156607031-e6c1e736-9915-47d1-a837-8d93fc856aa5.gif" width="200px">
+ <img align="right" src="![giphy](https://github.com/NaNaN64/Read.me/assets/112595708/68da91c1-05fe-4a35-b79f-7495087f9ddb)
+" width="200px">
   
 </div>
 
-![giphy](https://github.com/NaNaN64/Read.me/assets/112595708/68da91c1-05fe-4a35-b79f-7495087f9ddb)
 
 <br>
  
