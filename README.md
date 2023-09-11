@@ -15,8 +15,7 @@
  
   
   
- <img align="right" src="https://github.com/NaNaN64/Read.me/assets/112595708/68da91c1-05fe-4a35-b79f-7495087f9ddb
-" width="200px">
+ <img align="right" src="https://media1.giphy.com/media/PqjTdvXImZQfcmTYEO/giphy.gif" width="200px">
   
 </div>
 
