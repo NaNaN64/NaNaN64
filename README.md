@@ -22,7 +22,7 @@
  
   
   
- ![giphy](https://github.com/NaNaN64/Read.me/assets/112595708/c94eb1dd-b7bd-4caf-8f35-2f63d5d22d14)
+ <img align="right" src="https://user-images.githubusercontent.com/32654006/156607031-e6c1e736-9915-47d1-a837-8d93fc856aa5.gif" width="200px">
   
 </div>
 
