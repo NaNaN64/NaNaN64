@@ -14,11 +14,6 @@
 <img align="center" alt="Photoshop" height="40" widht="50" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=ffffff" />
  <img align="right" src="https://github.com/NaNaN64/Read.me/assets/112595708/d293ab8e-cf5c-46e4-afa6-1ad797cf7f4b" width="200px">
 </div>
-</div>
- 
- 
-
-![giphy](https://github.com/NaNaN64/Read.me/assets/112595708/ff798f4f-3eca-4eaa-a4c1-f1b3c5790f34)
 
 
 
