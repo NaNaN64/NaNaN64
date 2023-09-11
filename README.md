@@ -21,7 +21,8 @@
 
 
 <br>
- 
+ ![giphy](https://github.com/NaNaN64/Read.me/assets/112595708/df206192-29d3-4e31-9668-a001dd937982)
+
 ## Contact me! :)
  
 <div> 
