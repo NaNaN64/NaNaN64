@@ -12,7 +12,7 @@
 <img align="center" alt="CSS" height="40" width="50" src="https://icongr.am/devicon/css3-plain.svg?size=128&color=ffffff"/>
 <img align="center" alt="Illustrator" height="40" width="50"  src="https://icongr.am/devicon/illustrator-plain.svg?size=128&color=ffffff" />
 <img align="center" alt="Photoshop" height="40" widht="50" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=ffffff" />
- <img align="right" src="https://user-images.githubusercontent.com/32654006/156607031-e6c1e736-9915-47d1-a837-8d93fc856aa5.gif](https://github.com/NaNaN64/Read.me/assets/112595708/df206192-29d3-4e31-9668-a001dd937982" width="200px">
+ <img align="right" src="https://user-images.githubusercontent.com/32654006/156607031-e6c1e736-9915-47d1-a837-8d93fc856aa5.gif" width="200px">
 </div>
 </div>
  
