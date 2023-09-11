@@ -9,7 +9,7 @@
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img align="center" alt="Illustrator" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img align="center" alt="HTML" height="40" width="50" src=  https://icongr.am/devicon/html5-plain-wordmark.svg?size=128&color=currentColor"/>
+  <img align="center" alt="HTML" height="40" width="50" src= "https://icongr.am/devicon/html5-plain-wordmark.svg?size=128&color=currentColor"/>
 
 
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
