@@ -20,7 +20,7 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://icongr.am/devicon/css3-plain.svg?size=128&color=ffffff"/>
  
   <img align="center" alt="Photoshop" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="200px">
+  <img align="right" src="https://icongr.am/simple/adobephotoshop.svg?size=128&color=ffffff&colored=false" width="200px">
 </div>
  
 <br>
