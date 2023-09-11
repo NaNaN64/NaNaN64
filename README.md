@@ -18,7 +18,7 @@
    <img align="center" alt="Illustrator" height="40" width="50"  src="https://icongr.am/devicon/illustrator-plain.svg?size=128&color=ffffff" />
    
  
- <img align="center" alt="Photoshop" height="40" widht="50" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=ffffff" />
+  <img align="center" alt="Photoshop" height="40" widht="50" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=ffffff" />
  
   
   
