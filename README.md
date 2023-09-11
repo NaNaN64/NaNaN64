@@ -1,6 +1,6 @@
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=36BCF7FF&size=27&center+false&vCenter=false&width=1000&pause=10&lines=Greetings!+Welcome+to+my+Github.;I'm+Jefferson+Souza%2C+A.K.A+Nanan.;I'm+a+technology+student+and+graphic+design+enthusiastic.+✌)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=36BCF7FF&size=27&center+false&vCenter=false&width=1000&lines=Greetings!+Welcome+to+my+Github.;I'm+Jefferson+Souza%2C+A.K.A+Nanan.;I'm+a+technology+student+and+graphic+design+enthusiastic.+✌)](https://git.io/typing-svg)
 ## Skills 🎯
   
 <div style="display: inline_block"><br>
