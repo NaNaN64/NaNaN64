@@ -18,6 +18,7 @@
  
  
 
+![giphy](https://github.com/NaNaN64/Read.me/assets/112595708/ff798f4f-3eca-4eaa-a4c1-f1b3c5790f34)
 
 
 
