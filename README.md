@@ -11,7 +11,9 @@
   <img align="center" alt="Java" height="50" width="60" src="https://icongr.am/devicon/java-plain.svg?size=128&color=ffffff" />
 
   
- <img align="center" alt="Illustrator" height="40" width="50"  src="https://icongr.am/devicon/illustrator-line.svg?size=128&color=ffffff" />
+ <img align="center" alt="Illustrator" height="40" width="50"  src="https://icongr.am/simple/adobeillustrator.svg?size=128&color=ffffff" />
+ 
+ <img align="center" alt="Photoshop" height="40" widht="50" src="https://icongr.am/simple/adobephotoshop.svg?size=128&color=ffffff" />
 
   
   <img align="center" alt="HTML" height="40" width="50" src= "https://icongr.am/devicon/html5-plain.svg?size=128&color=ffffff"/>
@@ -19,7 +21,7 @@
 
   <img align="center" alt="CSS" height="40" width="50" src="https://icongr.am/devicon/css3-plain.svg?size=128&color=ffffff"/>
  
-  <img align="center" alt="Photoshop" height="40" widht="50" src="https://icongr.am/simple/adobephotoshop.svg?size=128&color=ffffff" />
+  
   
   <img align="right" src="https://icongr.am/simple/adobephotoshop.svg?size=128&color=ffffff&colored=false" width="200px">
 </div>
