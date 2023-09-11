@@ -3,7 +3,7 @@
 
 
   
-## Skills :🎯:
+## Skills 🎯
   
 <div style="display: inline_block"><br>
   
@@ -22,10 +22,11 @@
  
   
   
-  <img align="right" src="https://icongr.am/simple/adobephotoshop.svg?size=128&color=ffffff&colored=false" width="200px">
+  <img align="right" src=" ![giphy](https://github.com/NaNaN64/Read.me/assets/112595708/c94eb1dd-b7bd-4caf-8f35-2f63d5d22d14)">
   
 </div>
- 
+
+
 <br>
  
 ## Contact me! :)
