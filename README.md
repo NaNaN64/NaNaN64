@@ -21,6 +21,8 @@
 ## Contact me! 📬
   
 </div>
+
+![snake gif](https://github.com/NaNaN64/NaNaN64/blob/output/github-contribution-grid-snake.svg)
  
 
 <br>
